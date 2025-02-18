@@ -1,0 +1,15 @@
+/home/laboratorio3/ucatec/avanzada/micro2/bin/Debug/net8.0/micro2
+/home/laboratorio3/ucatec/avanzada/micro2/bin/Debug/net8.0/micro2.deps.json
+/home/laboratorio3/ucatec/avanzada/micro2/bin/Debug/net8.0/micro2.runtimeconfig.json
+/home/laboratorio3/ucatec/avanzada/micro2/bin/Debug/net8.0/micro2.dll
+/home/laboratorio3/ucatec/avanzada/micro2/bin/Debug/net8.0/micro2.pdb
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/micro2.GeneratedMSBuildEditorConfig.editorconfig
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/micro2.AssemblyInfoInputs.cache
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/micro2.AssemblyInfo.cs
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/micro2.csproj.CoreCompileInputs.cache
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/micro2.sourcelink.json
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/micro2.dll
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/refint/micro2.dll
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/micro2.pdb
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/micro2.genruntimeconfig.cache
+/home/laboratorio3/ucatec/avanzada/micro2/obj/Debug/net8.0/ref/micro2.dll
