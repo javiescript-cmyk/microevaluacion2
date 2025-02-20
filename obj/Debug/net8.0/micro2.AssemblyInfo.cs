@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("micro2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51fe68273bcd61e33829e71ad3a0a254d859215f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d618240977653244d6816557b98f5a9188358559")]
 [assembly: System.Reflection.AssemblyProductAttribute("micro2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("micro2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
